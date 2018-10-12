@@ -1,2 +1,2 @@
-# EEC_Solver.hpappdir
+# EEC_Solver
 HP Prime Circuit Solver
